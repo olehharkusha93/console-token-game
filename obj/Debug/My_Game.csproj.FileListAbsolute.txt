@@ -1,0 +1,9 @@
+C:\Users\Oleh\Desktop\Day1Code\My_Game\bin\Debug\My_Game.exe.config
+C:\Users\Oleh\Desktop\Day1Code\My_Game\bin\Debug\My_Game.exe
+C:\Users\Oleh\Desktop\Day1Code\My_Game\bin\Debug\My_Game.pdb
+C:\Users\Oleh\Desktop\Day1Code\My_Game\obj\Debug\My_Game.csprojResolveAssemblyReference.cache
+C:\Users\Oleh\Desktop\Day1Code\My_Game\obj\Debug\My_Game.exe
+C:\Users\Oleh\Desktop\Day1Code\My_Game\obj\Debug\My_Game.pdb
+C:\Users\Oleh\Desktop\PG 1\Day1Code\My_Game\bin\Debug\My_Game.exe.config
+C:\Users\Oleh\Desktop\PG 1\Day1Code\My_Game\obj\Debug\My_Game.exe
+C:\Users\Oleh\Desktop\PG 1\Day1Code\My_Game\obj\Debug\My_Game.pdb
